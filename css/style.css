@@ -42,12 +42,13 @@ body { width: 100%;}
 }
 
 img.pull-left {
-	border: 3px rgb(211, 211, 211) solid;
+	border: 5px rgb(211, 211, 211) solid;
 	float: left;
+	margin: 15px;
 }
 img.pull-right {
 	float: right;
-	border: 3px rgb(211, 211, 211) solid;
+	border: 5px rgb(211, 211, 211) solid;
 	margin: 10px;
 }
 
@@ -72,6 +73,7 @@ footer {
 	border: 100px;
 	font-style: italic;
 	font-size: small;
+	font-weight: 900;
 }
 
 body {
@@ -80,13 +82,16 @@ body {
 	text-align: justify;
 }
 body {
-	zoom: 75%;
+	zoom: 100%;
 }
 
 .instructions {
 	border: rgb(211, 211, 211) solid;
 	margin: 20px;
 	margin-inside: 10px;
+}
+.instructions-container {
+	content: 15px;
 }
 html {
 	align-content: center;
