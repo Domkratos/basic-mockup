@@ -12,7 +12,7 @@ body {
 
 .container {
 	margin: 0 auto;
-	width: 1170px;
+	width: 1080px;
 }
 
 .clear {
@@ -42,27 +42,24 @@ body { width: 100%;}
 }
 
 img.pull-left {
-	padding: 1px;
-	border: 1px rgb(211, 211, 211) solid;
+	border: 3px rgb(211, 211, 211) solid;
 	float: left;
-	margin: 2%;
 }
 img.pull-right {
 	float: right;
-	margin: 2%;
-	border: 1px rgb(211, 211, 211) solid;
-	padding: 1px;
+	border: 3px rgb(211, 211, 211) solid;
+	margin: 10px;
 }
 
 
 header {
 	background-color: lightskyblue;
-	padding:1%;
+	padding:1px;
 	font-family: 'Arimo', sans-serif;
 }
 section {
 	background-color: lightskyblue;
-	padding: 3%;
+	padding: 7px 10px 20px 20px;
 }
 
 footer {
@@ -71,23 +68,25 @@ footer {
 
 footer {
 	color: gray;
-}
-footer{
-	margin-bottom: 4%;
+	margin: 30px 0px 0px;
+	border: 100px;
 	font-style: italic;
+	font-size: small;
 }
+
 body {
 	align-content: center;
 	margin-inside: 5%;
 	text-align: justify;
 }
 body {
-	zoom: 60%;
+	zoom: 75%;
 }
 
 .instructions {
 	border: rgb(211, 211, 211) solid;
-	margin: 35px;
+	margin: 20px;
+	margin-inside: 10px;
 }
 html {
 	align-content: center;
