@@ -40,3 +40,55 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+img.pull-left {
+	padding: 1px;
+	border: 1px rgb(211, 211, 211) solid;
+	float: left;
+	margin: 2%;
+}
+img.pull-right {
+	float: right;
+	margin: 2%;
+	border: 1px rgb(211, 211, 211) solid;
+	padding: 1px;
+}
+
+
+header {
+	background-color: lightskyblue;
+	padding:1%;
+	font-family: 'Arimo', sans-serif;
+}
+section {
+	background-color: lightskyblue;
+	padding: 3%;
+}
+
+footer {
+	background-color: black;
+}
+
+footer {
+	color: gray;
+}
+footer{
+	margin-bottom: 4%;
+	font-style: italic;
+}
+body {
+	align-content: center;
+	margin-inside: 5%;
+	text-align: justify;
+}
+body {
+	zoom: 60%;
+}
+
+.instructions {
+	border: rgb(211, 211, 211) solid;
+	margin: 35px;
+}
+html {
+	align-content: center;
+}

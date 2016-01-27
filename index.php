@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<link href='https://fonts.googleapis.com/css?family=Arimo:700' rel='stylesheet' type='text/css'>
 		<title>Basic CSS Exercise</title>
 	</head>
 	<body class="sfooter">
